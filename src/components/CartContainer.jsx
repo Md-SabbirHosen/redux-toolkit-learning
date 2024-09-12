@@ -2,6 +2,7 @@ import React from "react";
 import CartItem from "./CartItem";
 import { useDispatch, useSelector } from "react-redux";
 import { clearCart } from "../feature/cartSlice";
+import { openModal } from "../feature/modalSlice";
 
 const CartContainer = () => {
   const dispatch = useDispatch();
@@ -42,7 +43,7 @@ const CartContainer = () => {
         <button
           className="btn clear-btn"
           onClick={() => {
-            dispatch(clearCart());
+            dispatch(openModal());
           }}
         >
           clear cart
