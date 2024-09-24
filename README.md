@@ -29,7 +29,7 @@ This repository contains my practice code from learning Redux Toolkit, based on 
 3. Install dependencies:
    ```bash
    npm install
+   
 ### Start Application
    ```bash
 npm start
-
