@@ -32,4 +32,4 @@ This repository contains my practice code from learning Redux Toolkit, based on 
    
 ### Start Application
    ```bash
-npm start
+   npm start
