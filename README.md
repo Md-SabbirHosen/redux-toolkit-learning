@@ -24,9 +24,12 @@ This repository contains my practice code from learning Redux Toolkit, based on 
    git clone https://github.com/your-username/redux-toolkit-practice.git
 
 2. Navigate into the project directory:
-   ```cd redux-toolkit-practice
+   ```bash
+   cd redux-toolkit-practice
 3. Install dependencies:
-   ```npm install
+   ```bash
+   npm install
 ### Start Application
-   ```npm start
+   ```bash
+npm start
 
